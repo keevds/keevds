@@ -5,7 +5,6 @@
 * * *
 
 **Sobre mim:**
-- 💻 Desenvolvedor desde 2023
 - ⚛️ .NET | Entity Framework | ASP.NET | Blazor
 - 🚀 Mais de 7 anos de experiência como designer
 - 📝 1/5 Semestre de Ánalise de Desenvolvimento de Sistemas na [Mackenzie](https://www.mackenzie.br/)
